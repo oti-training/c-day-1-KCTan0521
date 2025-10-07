@@ -12,7 +12,15 @@
 
 int main(void) {
     // TODO: Add your printf statements here
-
+    // Print welcome message
+    printf("Hello, Post-Silicon Validation World!\n");
+    printf("Welcome to C Programming for Hardware Engineers\n");
+    
+    // Print some basic information
+    printf("\nCourse Information:\n");
+    printf("- Duration: 6 days\n");
+    printf("- Target Platform: RISC-V on FPGA\n");
+    printf("- Focus: Hardware validation techniques\n");
     return 0;
 }
 
